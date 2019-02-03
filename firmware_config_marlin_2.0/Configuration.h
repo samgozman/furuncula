@@ -73,7 +73,7 @@
  * Z Axis steps per mm (Default for stock lead screw is 1600)
  * If you install a lead screw with a different pitch and/or lead, change this
  */
-#define Z_STEPS      1600 // Stock lead screw
+#define Z_STEPS      400 // Stock lead screw
 
 /**
  * Z-Probe type (must be none or one of them)
